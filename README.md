@@ -1,6 +1,7 @@
 # sql-challenge
 
-#ERD Sketch
+# ERD Sketch
+
 link: https://app.quickdatabasediagrams.com/#/d/N8WIAU 
 
 - The primary key for most tables is the emp_no. 
